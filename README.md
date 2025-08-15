@@ -3,7 +3,6 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando Tecnologia em Sistemas de Internet no Instituto Federal de Mato Grosso do Sul (IFMS).
 - 💼 Trabalhando como jovem aprendiz na Digix.
 - 🌱 Aprendendo mais sobre C# e REACT.
 
